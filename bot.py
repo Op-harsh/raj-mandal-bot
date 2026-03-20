@@ -2,7 +2,7 @@ import random
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import ApplicationBuilder, CommandHandler, CallbackQueryHandler, ContextTypes
 
-TOKEN = "PASTE_YOUR_TOKEN_HERE"
+TOKEN = "8706097694:AAFsrvzwTkcJE-m1LK3iu5IB1xeWQho7C20"
 
 games = {}
 
